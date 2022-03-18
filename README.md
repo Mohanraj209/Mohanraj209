@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **the latest .Net framework(6.0), SQL Server Management Studio (SSMS), Linux Shell Scripting... etc.**
 
-- 🤝 I am highly proficient in C# and SQL. I am currently focusing on .Net and SSMS.. **I am currently focusing on .Net and SSMS..**
+- 🤝 I am highly proficient in C# and SQL. **I am currently focusing on .Net and SSMS..**
 
 - 🔎 I am looking for Opportunities in .Net developer roles. **Open to other opportunities.**
 
 - 📫 How to reach me **mohanraj1715@gmail.com**
 
-- ⚡ Fun fact **I am a Mechanical Engineering graduate..**
+- ⚡ Fun fact **I'm a Mechanical Engineering graduate..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

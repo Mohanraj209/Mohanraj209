@@ -7,11 +7,11 @@
 
 - ✌️ I'm looking for a position in a reputed, dynamic company **where I can utilize my skills to the benefits of the company.**
 
-- 🌱 I’m currently learning **the latest .Net framework(6.0), SQL Server Management Studio (SSMS), Linux Shell Scripting... etc.**
+- 🌱 I’m currently learning **Azure Fundamentals, DevOps tools and technologies including containers, deployment automation, monitoring and analytics, network               protocols, continuous integration servers, infrastructure orchestration and continuous integration and Python ... etc.**
 
-- 🤝 I am highly proficient in C# and SQL. **I am currently focusing on .Net and SSMS..**
+- 🤝 I am highly proficient in Azure Fundamentals, Linux fundamentals and scripting and Git. **I am currently focusing on Kubernetes, Helm and Monitering tools ..**
 
-- 🔎 I am looking for Opportunities in .Net developer roles. **Open to other opportunities.**
+- 🔎 I am looking for Opportunities in Azure Devops Engineer roles. **Open to other opportunities.**
 
 - 📫 How to reach me **mohanraj1715@gmail.com**
 

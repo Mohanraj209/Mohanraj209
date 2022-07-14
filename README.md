@@ -7,7 +7,7 @@
 
 - ✌️ I'm looking for a position in a reputed, dynamic company **where I can utilize my skills to the benefits of the company.**
 
-- 🌱 I’m currently learning **Azure Fundamentals, DevOps tools and technologies including containers, deployment automation, monitoring and analytics, network               protocols, continuous integration servers, infrastructure orchestration and continuous integration and Python ... etc.**
+- 🌱 I’m currently learning **Azure Fundamentals, DevOps tools and technologies including containers, deployment automation, monitoring and analytics, network               protocols, continuous integration servers, infrastructure orchestration and Python ... etc.**
 
 - 🤝 I am highly proficient in Azure Fundamentals, Linux fundamentals and scripting and Git. **I am currently focusing on Kubernetes, Helm and Monitering tools ..**
 

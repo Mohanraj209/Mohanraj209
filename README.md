@@ -1,9 +1,15 @@
-<h1 align="center">Greetings :pray:, this is Mohan..</h1>
-<h3 align="center">DevOps / SRE Engineer with 4+ years of experience building and running reliable cloud-native platforms :gear:</h3>
+<h1 align="center">Greetings 🙏, this is Mohan..</h1>
+<h3 align="center">DevOps / SRE Engineer with 4+ years of experience building and running reliable cloud-native platforms ⚙️</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanraj209&label=Profile%20views&color=0e75b6&style=flat" alt="mohanraj209" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mohanraj209&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohanraj209" alt="mohanraj209" /></a> </p>
+<p align="left">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=mohanraj209&theme=dark&hide_border=true" alt="GitHub streak" />
+  </a>
+</p>
 
 - :rocket: I'm a **DevOps / SRE Engineer with 4+ years of experience** running production Kubernetes platforms on AWS.
 

@@ -17,7 +17,7 @@
 
 - :bar_chart: I build and maintain **observability stacks** with **Prometheus, Grafana, Loki, Alloy and Elasticsearch**, and work with **Istio** service mesh.
 
-- :robot_face: I automate everything I can — **CI/CD with GitHub Actions, infrastructure with Terraform, configuration with Ansible**, plus automated cluster health checks and SSL/TLS certificate renewal.
+- :robot: I automate everything I can — **CI/CD with GitHub Actions, infrastructure with Terraform, configuration with Ansible**, plus automated cluster health checks and SSL/TLS certificate renewal.
 
 - :seedling: Always learning — currently deepening my skills in **platform engineering, Kubernetes internals and cloud automation**.
 
